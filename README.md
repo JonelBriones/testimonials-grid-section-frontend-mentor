@@ -1,4 +1,5 @@
 # Frontend Mentor - Testimonials grid section
+ - [Live View] (https://jonelbriones.github.io/testimonials-grid-section-frontend-mentor)
 
 ![Design preview for the Testimonials grid section coding challenge](./design/desktop-preview.jpg)
 
